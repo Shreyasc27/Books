@@ -1,4 +1,4 @@
-# Books
+### My Reading List
 I often get asked if I maintain the list of books I have read or the ones I intend to read. Earlier, I used to maintain the list on LinkedIn. Since LinkedIn no more offers the feature, hence this repo. 
 
 * Atomic Habits - James Clear
@@ -28,3 +28,5 @@ I often get asked if I maintain the list of books I have read or the ones I inte
 * Trillion Dollar Coach - Schmidt Rosenberg & Eagle
 * Wooden On Leadership - Wooden & Jamison
 * Zen Mind, Beginner's Mind - Shunryu Suzuki
+
+#### Last Updated - 1st January, 2021
